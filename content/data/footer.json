@@ -1,33 +1,33 @@
 {
     "logo": {
         "url": "/images/logo-white.svg",
-        "altText": "Logo light",
+        "altText": "Mahimood Mohammed Software Development",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Professional software development services for businesses. Building custom solutions that drive success.",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Quick Links",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "Services",
+                "altText": "Our services",
+                "url": "/#services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "About",
+                "url": "/#about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Contact",
+                "url": "/#contact",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,20 +37,28 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Services",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Web Development",
+                "altText": "Web development services",
+                "url": "/#services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Mobile Apps",
+                "url": "/#services",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Enterprise Software",
+                "url": "/#services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -61,49 +69,26 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "altText": "LinkedIn",
+            "url": "#",
             "icon": "linkedin",
             "type": "Social"
         },
         {
-            "altText": "Email link",
-            "url": "/",
+            "altText": "GitHub",
+            "url": "#",
+            "icon": "github",
+            "type": "Social"
+        },
+        {
+            "altText": "Email",
+            "url": "mailto:contact@example.com",
             "icon": "mail",
             "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "legalLinks": [],
+    "copyrightText": "© 2024 Mahimood Mohammed. All rights reserved.\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
